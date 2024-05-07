@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-05-07T07:54:12.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="xM2AJj5ARz3a23fCB76U" version="24.3.1" type="device">
+  <diagram name="Page-1" id="C6DA6Qeuej0_L8HDvFtR">
+    <mxGraphModel dx="954" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-1" target="FO0ZzlfWc8K7DtJUNKoE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-1" target="FO0ZzlfWc8K7DtJUNKoE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&quot;___ has over 29 years of progressive experience in the electrical&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, communications&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, electronics&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, and telecommunications fields&quot;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-2" target="FO0ZzlfWc8K7DtJUNKoE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Excerpt from resume&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="415" y="15" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-4" target="FO0ZzlfWc8K7DtJUNKoE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&quot;&lt;b&gt;Samuel&lt;/b&gt; has over 29 years of progressive experience in the electrical&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, communications&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, electronics&lt;/span&gt;&lt;span style=&quot;white-space: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, and telecommunications fields&quot;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-5" target="FO0ZzlfWc8K7DtJUNKoE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Name to test&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="190" y="15" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-6" target="FO0ZzlfWc8K7DtJUNKoE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-6" target="FO0ZzlfWc8K7DtJUNKoE-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="280" />
+              <mxPoint x="925" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&quot;Samuel&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-10" target="FO0ZzlfWc8K7DtJUNKoE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Sentiment score baseline&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-12" target="FO0ZzlfWc8K7DtJUNKoE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Trained 1D CNN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="10" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-15" target="FO0ZzlfWc8K7DtJUNKoE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Sentiment score&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Difference in sentiment for name from an ethnic group&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FO0ZzlfWc8K7DtJUNKoE-26" target="FO0ZzlfWc8K7DtJUNKoE-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="35" />
+              <mxPoint x="820" y="170" />
+              <mxPoint x="725" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO0ZzlfWc8K7DtJUNKoE-26" value="Train 1D CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
